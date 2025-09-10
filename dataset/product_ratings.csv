@@ -1,0 +1,161 @@
+Product ID,Product Name,Category,Sub-Category,Customer Rating,Return Rate
+PROD-0143,Software Product 3,Technology,Software,4.4,0.076
+PROD-0088,Paper Product 8,Office Supplies,Paper,3.6,0.039
+PROD-0122,Copiers Product 2,Technology,Copiers,4.7,0.127
+PROD-0076,Bookcases Product 6,Furniture,Bookcases,4.4,0.144
+PROD-0008,Phones Product 8,Electronics,Phones,3.3,0.028
+PROD-0156,Hardware Product 6,Technology,Hardware,3.8,0.099
+PROD-0146,Software Product 6,Technology,Software,4.8,0.115
+PROD-0100,Binders Product 10,Office Supplies,Binders,4.8,0.048
+PROD-0081,Paper Product 1,Office Supplies,Paper,3.4,0.07
+PROD-0015,Tablets Product 5,Electronics,Tablets,3.6,0.124
+PROD-0060,Tables Product 10,Furniture,Tables,4.9,0.036
+PROD-0097,Binders Product 7,Office Supplies,Binders,4.4,0.079
+PROD-0043,Chairs Product 3,Furniture,Chairs,4.1,0.128
+PROD-0050,Chairs Product 10,Furniture,Chairs,3.9,0.109
+PROD-0041,Chairs Product 1,Furniture,Chairs,3.6,0.099
+PROD-0127,Copiers Product 7,Technology,Copiers,4.8,0.047
+PROD-0096,Binders Product 6,Office Supplies,Binders,3.3,0.072
+PROD-0094,Binders Product 4,Office Supplies,Binders,5.0,0.014
+PROD-0109,Pens Product 9,Office Supplies,Pens,4.6,0.032
+PROD-0148,Software Product 8,Technology,Software,4.0,0.07
+PROD-0118,Envelopes Product 8,Office Supplies,Envelopes,4.1,0.075
+PROD-0054,Tables Product 4,Furniture,Tables,4.1,0.04
+PROD-0142,Software Product 2,Technology,Software,4.9,0.111
+PROD-0056,Tables Product 6,Furniture,Tables,4.6,0.064
+PROD-0071,Bookcases Product 1,Furniture,Bookcases,4.8,0.109
+PROD-0011,Tablets Product 1,Electronics,Tablets,3.5,0.082
+PROD-0113,Envelopes Product 3,Office Supplies,Envelopes,3.7,0.149
+PROD-0123,Copiers Product 3,Technology,Copiers,3.5,0.019
+PROD-0055,Tables Product 5,Furniture,Tables,3.0,0.045
+PROD-0085,Paper Product 5,Office Supplies,Paper,3.3,0.132
+PROD-0095,Binders Product 5,Office Supplies,Binders,3.6,0.107
+PROD-0119,Envelopes Product 9,Office Supplies,Envelopes,3.3,0.013
+PROD-0024,Laptops Product 4,Electronics,Laptops,3.3,0.119
+PROD-0037,Accessories Product 7,Electronics,Accessories,3.8,0.027
+PROD-0074,Bookcases Product 4,Furniture,Bookcases,4.4,0.068
+PROD-0083,Paper Product 3,Office Supplies,Paper,4.4,0.025
+PROD-0039,Accessories Product 9,Electronics,Accessories,3.8,0.041
+PROD-0057,Tables Product 7,Furniture,Tables,4.8,0.118
+PROD-0049,Chairs Product 9,Furniture,Chairs,4.6,0.129
+PROD-0007,Phones Product 7,Electronics,Phones,4.8,0.015
+PROD-0067,Storage Product 7,Furniture,Storage,3.0,0.021
+PROD-0108,Pens Product 8,Office Supplies,Pens,3.7,0.147
+PROD-0004,Phones Product 4,Electronics,Phones,5.0,0.068
+PROD-0131,Machines Product 1,Technology,Machines,4.0,0.122
+PROD-0006,Phones Product 6,Electronics,Phones,3.3,0.12
+PROD-0153,Hardware Product 3,Technology,Hardware,4.5,0.089
+PROD-0139,Machines Product 9,Technology,Machines,4.3,0.116
+PROD-0038,Accessories Product 8,Electronics,Accessories,4.3,0.078
+PROD-0110,Pens Product 10,Office Supplies,Pens,4.2,0.119
+PROD-0013,Tablets Product 3,Electronics,Tablets,4.0,0.116
+PROD-0075,Bookcases Product 5,Furniture,Bookcases,4.1,0.051
+PROD-0098,Binders Product 8,Office Supplies,Binders,4.5,0.058
+PROD-0068,Storage Product 8,Furniture,Storage,3.9,0.054
+PROD-0045,Chairs Product 5,Furniture,Chairs,4.0,0.104
+PROD-0134,Machines Product 4,Technology,Machines,4.0,0.067
+PROD-0062,Storage Product 2,Furniture,Storage,3.1,0.04
+PROD-0063,Storage Product 3,Furniture,Storage,4.0,0.069
+PROD-0019,Tablets Product 9,Electronics,Tablets,4.9,0.09
+PROD-0104,Pens Product 4,Office Supplies,Pens,3.8,0.121
+PROD-0154,Hardware Product 4,Technology,Hardware,4.2,0.083
+PROD-0046,Chairs Product 6,Furniture,Chairs,3.7,0.046
+PROD-0087,Paper Product 7,Office Supplies,Paper,4.9,0.082
+PROD-0051,Tables Product 1,Furniture,Tables,4.9,0.128
+PROD-0072,Bookcases Product 2,Furniture,Bookcases,3.4,0.138
+PROD-0010,Phones Product 10,Electronics,Phones,3.0,0.133
+PROD-0099,Binders Product 9,Office Supplies,Binders,3.7,0.138
+PROD-0059,Tables Product 9,Furniture,Tables,3.4,0.065
+PROD-0069,Storage Product 9,Furniture,Storage,4.0,0.124
+PROD-0001,Phones Product 1,Electronics,Phones,3.9,0.102
+PROD-0130,Copiers Product 10,Technology,Copiers,4.3,0.079
+PROD-0084,Paper Product 4,Office Supplies,Paper,4.7,0.132
+PROD-0078,Bookcases Product 8,Furniture,Bookcases,4.1,0.103
+PROD-0147,Software Product 7,Technology,Software,4.8,0.059
+PROD-0073,Bookcases Product 3,Furniture,Bookcases,3.3,0.102
+PROD-0126,Copiers Product 6,Technology,Copiers,4.1,0.012
+PROD-0150,Software Product 10,Technology,Software,4.9,0.132
+PROD-0035,Accessories Product 5,Electronics,Accessories,4.3,0.106
+PROD-0022,Laptops Product 2,Electronics,Laptops,3.8,0.089
+PROD-0129,Copiers Product 9,Technology,Copiers,4.8,0.072
+PROD-0102,Pens Product 2,Office Supplies,Pens,4.2,0.107
+PROD-0103,Pens Product 3,Office Supplies,Pens,4.3,0.072
+PROD-0003,Phones Product 3,Electronics,Phones,4.4,0.072
+PROD-0133,Machines Product 3,Technology,Machines,4.1,0.132
+PROD-0079,Bookcases Product 9,Furniture,Bookcases,4.9,0.013
+PROD-0005,Phones Product 5,Electronics,Phones,4.8,0.028
+PROD-0044,Chairs Product 4,Furniture,Chairs,4.9,0.065
+PROD-0145,Software Product 5,Technology,Software,4.8,0.027
+PROD-0089,Paper Product 9,Office Supplies,Paper,3.5,0.084
+PROD-0137,Machines Product 7,Technology,Machines,3.5,0.064
+PROD-0157,Hardware Product 7,Technology,Hardware,4.7,0.138
+PROD-0132,Machines Product 2,Technology,Machines,4.4,0.048
+PROD-0125,Copiers Product 5,Technology,Copiers,4.0,0.047
+PROD-0009,Phones Product 9,Electronics,Phones,4.5,0.094
+PROD-0012,Tablets Product 2,Electronics,Tablets,4.1,0.14
+PROD-0027,Laptops Product 7,Electronics,Laptops,4.5,0.031
+PROD-0031,Accessories Product 1,Electronics,Accessories,4.5,0.101
+PROD-0149,Software Product 9,Technology,Software,4.9,0.085
+PROD-0020,Tablets Product 10,Electronics,Tablets,3.1,0.075
+PROD-0144,Software Product 4,Technology,Software,3.6,0.108
+PROD-0111,Envelopes Product 1,Office Supplies,Envelopes,4.9,0.087
+PROD-0141,Software Product 1,Technology,Software,3.3,0.119
+PROD-0033,Accessories Product 3,Electronics,Accessories,4.6,0.111
+PROD-0107,Pens Product 7,Office Supplies,Pens,4.7,0.027
+PROD-0032,Accessories Product 2,Electronics,Accessories,3.7,0.107
+PROD-0114,Envelopes Product 4,Office Supplies,Envelopes,3.4,0.066
+PROD-0034,Accessories Product 4,Electronics,Accessories,3.6,0.07
+PROD-0053,Tables Product 3,Furniture,Tables,3.5,0.145
+PROD-0136,Machines Product 6,Technology,Machines,4.8,0.111
+PROD-0140,Machines Product 10,Technology,Machines,3.1,0.114
+PROD-0017,Tablets Product 7,Electronics,Tablets,3.2,0.097
+PROD-0152,Hardware Product 2,Technology,Hardware,4.7,0.047
+PROD-0120,Envelopes Product 10,Office Supplies,Envelopes,4.8,0.073
+PROD-0092,Binders Product 2,Office Supplies,Binders,4.6,0.081
+PROD-0066,Storage Product 6,Furniture,Storage,3.9,0.051
+PROD-0040,Accessories Product 10,Electronics,Accessories,3.0,0.141
+PROD-0090,Paper Product 10,Office Supplies,Paper,3.1,0.029
+PROD-0030,Laptops Product 10,Electronics,Laptops,4.6,0.106
+PROD-0117,Envelopes Product 7,Office Supplies,Envelopes,4.9,0.139
+PROD-0026,Laptops Product 6,Electronics,Laptops,3.8,0.13
+PROD-0106,Pens Product 6,Office Supplies,Pens,3.3,0.019
+PROD-0135,Machines Product 5,Technology,Machines,4.8,0.029
+PROD-0018,Tablets Product 8,Electronics,Tablets,4.0,0.097
+PROD-0115,Envelopes Product 5,Office Supplies,Envelopes,4.9,0.09
+PROD-0052,Tables Product 2,Furniture,Tables,4.2,0.087
+PROD-0064,Storage Product 4,Furniture,Storage,3.3,0.122
+PROD-0077,Bookcases Product 7,Furniture,Bookcases,3.9,0.041
+PROD-0016,Tablets Product 6,Electronics,Tablets,4.2,0.094
+PROD-0112,Envelopes Product 2,Office Supplies,Envelopes,3.3,0.022
+PROD-0036,Accessories Product 6,Electronics,Accessories,3.2,0.141
+PROD-0065,Storage Product 5,Furniture,Storage,3.9,0.103
+PROD-0048,Chairs Product 8,Furniture,Chairs,4.6,0.071
+PROD-0023,Laptops Product 3,Electronics,Laptops,4.9,0.015
+PROD-0070,Storage Product 10,Furniture,Storage,4.2,0.065
+PROD-0155,Hardware Product 5,Technology,Hardware,3.2,0.106
+PROD-0101,Pens Product 1,Office Supplies,Pens,4.6,0.077
+PROD-0042,Chairs Product 2,Furniture,Chairs,3.1,0.126
+PROD-0160,Hardware Product 10,Technology,Hardware,4.8,0.116
+PROD-0028,Laptops Product 8,Electronics,Laptops,3.3,0.083
+PROD-0082,Paper Product 2,Office Supplies,Paper,4.8,0.063
+PROD-0158,Hardware Product 8,Technology,Hardware,4.6,0.129
+PROD-0093,Binders Product 3,Office Supplies,Binders,4.1,0.013
+PROD-0105,Pens Product 5,Office Supplies,Pens,4.1,0.013
+PROD-0047,Chairs Product 7,Furniture,Chairs,4.0,0.056
+PROD-0138,Machines Product 8,Technology,Machines,4.7,0.134
+PROD-0159,Hardware Product 9,Technology,Hardware,3.2,0.056
+PROD-0121,Copiers Product 1,Technology,Copiers,4.4,0.129
+PROD-0116,Envelopes Product 6,Office Supplies,Envelopes,3.8,0.027
+PROD-0029,Laptops Product 9,Electronics,Laptops,4.4,0.044
+PROD-0025,Laptops Product 5,Electronics,Laptops,3.3,0.044
+PROD-0151,Hardware Product 1,Technology,Hardware,3.7,0.075
+PROD-0080,Bookcases Product 10,Furniture,Bookcases,3.6,0.059
+PROD-0014,Tablets Product 4,Electronics,Tablets,4.8,0.078
+PROD-0124,Copiers Product 4,Technology,Copiers,4.2,0.068
+PROD-0002,Phones Product 2,Electronics,Phones,4.7,0.091
+PROD-0086,Paper Product 6,Office Supplies,Paper,3.0,0.073
+PROD-0091,Binders Product 1,Office Supplies,Binders,4.7,0.011
+PROD-0061,Storage Product 1,Furniture,Storage,3.4,0.096
+PROD-0058,Tables Product 8,Furniture,Tables,5.0,0.123
+PROD-0128,Copiers Product 8,Technology,Copiers,3.1,0.039
+PROD-0021,Laptops Product 1,Electronics,Laptops,3.7,0.139

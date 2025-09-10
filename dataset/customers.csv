@@ -1,0 +1,954 @@
+Customer ID,Customer Name,Segment
+CUST-0681,Customer 681,Home Office
+CUST-0085,Customer 85,Consumer
+CUST-0183,Customer 183,Home Office
+CUST-0806,Customer 806,Corporate
+CUST-0385,Customer 385,Corporate
+CUST-0693,Customer 693,Corporate
+CUST-0687,Customer 687,Corporate
+CUST-0611,Customer 611,Consumer
+CUST-0299,Customer 299,Corporate
+CUST-0656,Customer 656,Consumer
+CUST-0625,Customer 625,Corporate
+CUST-0048,Customer 48,Corporate
+CUST-0193,Customer 193,Home Office
+CUST-0748,Customer 748,Corporate
+CUST-0984,Customer 984,Consumer
+CUST-0070,Customer 70,Home Office
+CUST-0040,Customer 40,Consumer
+CUST-0242,Customer 242,Home Office
+CUST-0907,Customer 907,Home Office
+CUST-0963,Customer 963,Consumer
+CUST-0433,Customer 433,Corporate
+CUST-1000,Customer 1000,Consumer
+CUST-0136,Customer 136,Consumer
+CUST-0776,Customer 776,Consumer
+CUST-0755,Customer 755,Consumer
+CUST-0796,Customer 796,Home Office
+CUST-0083,Customer 83,Consumer
+CUST-0286,Customer 286,Consumer
+CUST-0091,Customer 91,Consumer
+CUST-0556,Customer 556,Consumer
+CUST-0418,Customer 418,Consumer
+CUST-0149,Customer 149,Consumer
+CUST-0195,Customer 195,Consumer
+CUST-0094,Customer 94,Corporate
+CUST-0993,Customer 993,Consumer
+CUST-0118,Customer 118,Consumer
+CUST-0310,Customer 310,Consumer
+CUST-0695,Customer 695,Consumer
+CUST-0300,Customer 300,Consumer
+CUST-0414,Customer 414,Corporate
+CUST-0374,Customer 374,Corporate
+CUST-0429,Customer 429,Consumer
+CUST-0947,Customer 947,Consumer
+CUST-0852,Customer 852,Corporate
+CUST-0911,Customer 911,Corporate
+CUST-0631,Customer 631,Corporate
+CUST-0582,Customer 582,Home Office
+CUST-0220,Customer 220,Home Office
+CUST-0974,Customer 974,Consumer
+CUST-0759,Customer 759,Home Office
+CUST-0812,Customer 812,Home Office
+CUST-0260,Customer 260,Consumer
+CUST-0705,Customer 705,Consumer
+CUST-0190,Customer 190,Consumer
+CUST-0101,Customer 101,Consumer
+CUST-0885,Customer 885,Corporate
+CUST-0939,Customer 939,Consumer
+CUST-0986,Customer 986,Consumer
+CUST-0282,Customer 282,Consumer
+CUST-0854,Customer 854,Home Office
+CUST-0391,Customer 391,Home Office
+CUST-0431,Customer 431,Consumer
+CUST-0468,Customer 468,Home Office
+CUST-0792,Customer 792,Corporate
+CUST-0020,Customer 20,Consumer
+CUST-0164,Customer 164,Corporate
+CUST-0876,Customer 876,Consumer
+CUST-0510,Customer 510,Corporate
+CUST-0056,Customer 56,Home Office
+CUST-0387,Customer 387,Consumer
+CUST-0989,Customer 989,Consumer
+CUST-0370,Customer 370,Consumer
+CUST-0771,Customer 771,Consumer
+CUST-0326,Customer 326,Corporate
+CUST-0528,Customer 528,Consumer
+CUST-0484,Customer 484,Corporate
+CUST-0769,Customer 769,Consumer
+CUST-0079,Customer 79,Consumer
+CUST-0766,Customer 766,Corporate
+CUST-0959,Customer 959,Consumer
+CUST-0218,Customer 218,Corporate
+CUST-0969,Customer 969,Corporate
+CUST-0777,Customer 777,Consumer
+CUST-0488,Customer 488,Consumer
+CUST-0252,Customer 252,Consumer
+CUST-0209,Customer 209,Consumer
+CUST-0115,Customer 115,Corporate
+CUST-0691,Customer 691,Consumer
+CUST-0342,Customer 342,Consumer
+CUST-0740,Customer 740,Consumer
+CUST-0475,Customer 475,Corporate
+CUST-0332,Customer 332,Corporate
+CUST-0890,Customer 890,Consumer
+CUST-0936,Customer 936,Consumer
+CUST-0381,Customer 381,Consumer
+CUST-0011,Customer 11,Consumer
+CUST-0736,Customer 736,Home Office
+CUST-0522,Customer 522,Consumer
+CUST-0606,Customer 606,Consumer
+CUST-0638,Customer 638,Consumer
+CUST-0377,Customer 377,Home Office
+CUST-0831,Customer 831,Consumer
+CUST-0828,Customer 828,Consumer
+CUST-0555,Customer 555,Home Office
+CUST-0751,Customer 751,Consumer
+CUST-0669,Customer 669,Consumer
+CUST-0278,Customer 278,Corporate
+CUST-0140,Customer 140,Home Office
+CUST-0803,Customer 803,Corporate
+CUST-0462,Customer 462,Corporate
+CUST-0634,Customer 634,Corporate
+CUST-0439,Customer 439,Corporate
+CUST-0279,Customer 279,Corporate
+CUST-0354,Customer 354,Consumer
+CUST-0745,Customer 745,Consumer
+CUST-0432,Customer 432,Corporate
+CUST-0241,Customer 241,Home Office
+CUST-0670,Customer 670,Consumer
+CUST-0600,Customer 600,Consumer
+CUST-0523,Customer 523,Home Office
+CUST-0275,Customer 275,Corporate
+CUST-0548,Customer 548,Corporate
+CUST-0181,Customer 181,Consumer
+CUST-0257,Customer 257,Home Office
+CUST-0234,Customer 234,Consumer
+CUST-0035,Customer 35,Home Office
+CUST-0998,Customer 998,Consumer
+CUST-0661,Customer 661,Consumer
+CUST-0165,Customer 165,Consumer
+CUST-0738,Customer 738,Home Office
+CUST-0674,Customer 674,Corporate
+CUST-0480,Customer 480,Corporate
+CUST-0182,Customer 182,Consumer
+CUST-0713,Customer 713,Consumer
+CUST-0950,Customer 950,Corporate
+CUST-0470,Customer 470,Home Office
+CUST-0473,Customer 473,Consumer
+CUST-0917,Customer 917,Consumer
+CUST-0782,Customer 782,Corporate
+CUST-0177,Customer 177,Corporate
+CUST-0378,Customer 378,Consumer
+CUST-0404,Customer 404,Home Office
+CUST-0624,Customer 624,Consumer
+CUST-0835,Customer 835,Consumer
+CUST-0580,Customer 580,Consumer
+CUST-0309,Customer 309,Corporate
+CUST-0620,Customer 620,Corporate
+CUST-0985,Customer 985,Corporate
+CUST-0798,Customer 798,Corporate
+CUST-0815,Customer 815,Home Office
+CUST-0496,Customer 496,Consumer
+CUST-0524,Customer 524,Home Office
+CUST-0940,Customer 940,Corporate
+CUST-0044,Customer 44,Home Office
+CUST-0080,Customer 80,Consumer
+CUST-0900,Customer 900,Consumer
+CUST-0472,Customer 472,Home Office
+CUST-0983,Customer 983,Consumer
+CUST-0514,Customer 514,Home Office
+CUST-0797,Customer 797,Home Office
+CUST-0706,Customer 706,Home Office
+CUST-0120,Customer 120,Corporate
+CUST-0203,Customer 203,Consumer
+CUST-0735,Customer 735,Consumer
+CUST-0982,Customer 982,Corporate
+CUST-0560,Customer 560,Corporate
+CUST-0174,Customer 174,Consumer
+CUST-0761,Customer 761,Consumer
+CUST-0029,Customer 29,Corporate
+CUST-0709,Customer 709,Consumer
+CUST-0401,Customer 401,Consumer
+CUST-0843,Customer 843,Consumer
+CUST-0096,Customer 96,Consumer
+CUST-0042,Customer 42,Consumer
+CUST-0154,Customer 154,Consumer
+CUST-0628,Customer 628,Corporate
+CUST-0851,Customer 851,Consumer
+CUST-0436,Customer 436,Corporate
+CUST-0478,Customer 478,Corporate
+CUST-0976,Customer 976,Consumer
+CUST-0850,Customer 850,Corporate
+CUST-0952,Customer 952,Corporate
+CUST-0335,Customer 335,Consumer
+CUST-0347,Customer 347,Corporate
+CUST-0320,Customer 320,Consumer
+CUST-0711,Customer 711,Corporate
+CUST-0541,Customer 541,Home Office
+CUST-0026,Customer 26,Corporate
+CUST-0428,Customer 428,Home Office
+CUST-0276,Customer 276,Corporate
+CUST-0006,Customer 6,Consumer
+CUST-0325,Customer 325,Home Office
+CUST-0284,Customer 284,Consumer
+CUST-0896,Customer 896,Consumer
+CUST-0176,Customer 176,Consumer
+CUST-0235,Customer 235,Consumer
+CUST-0561,Customer 561,Corporate
+CUST-0111,Customer 111,Consumer
+CUST-0392,Customer 392,Consumer
+CUST-0786,Customer 786,Home Office
+CUST-0953,Customer 953,Consumer
+CUST-0289,Customer 289,Consumer
+CUST-0579,Customer 579,Consumer
+CUST-0501,Customer 501,Corporate
+CUST-0072,Customer 72,Consumer
+CUST-0066,Customer 66,Corporate
+CUST-0994,Customer 994,Corporate
+CUST-0804,Customer 804,Corporate
+CUST-0905,Customer 905,Consumer
+CUST-0251,Customer 251,Consumer
+CUST-0758,Customer 758,Corporate
+CUST-0415,Customer 415,Corporate
+CUST-0872,Customer 872,Consumer
+CUST-0058,Customer 58,Consumer
+CUST-0444,Customer 444,Consumer
+CUST-0743,Customer 743,Corporate
+CUST-0547,Customer 547,Consumer
+CUST-0298,Customer 298,Consumer
+CUST-0243,Customer 243,Home Office
+CUST-0909,Customer 909,Consumer
+CUST-0258,Customer 258,Corporate
+CUST-0533,Customer 533,Home Office
+CUST-0305,Customer 305,Corporate
+CUST-0968,Customer 968,Consumer
+CUST-0603,Customer 603,Consumer
+CUST-0887,Customer 887,Corporate
+CUST-0564,Customer 564,Consumer
+CUST-0122,Customer 122,Home Office
+CUST-0973,Customer 973,Corporate
+CUST-0538,Customer 538,Consumer
+CUST-0505,Customer 505,Corporate
+CUST-0898,Customer 898,Home Office
+CUST-0714,Customer 714,Consumer
+CUST-0077,Customer 77,Corporate
+CUST-0256,Customer 256,Corporate
+CUST-0460,Customer 460,Consumer
+CUST-0129,Customer 129,Consumer
+CUST-0990,Customer 990,Home Office
+CUST-0441,Customer 441,Consumer
+CUST-0614,Customer 614,Consumer
+CUST-0406,Customer 406,Home Office
+CUST-0783,Customer 783,Consumer
+CUST-0249,Customer 249,Home Office
+CUST-0380,Customer 380,Consumer
+CUST-0589,Customer 589,Consumer
+CUST-0593,Customer 593,Consumer
+CUST-0617,Customer 617,Consumer
+CUST-0622,Customer 622,Consumer
+CUST-0202,Customer 202,Consumer
+CUST-0233,Customer 233,Corporate
+CUST-0223,Customer 223,Consumer
+CUST-0809,Customer 809,Consumer
+CUST-0397,Customer 397,Home Office
+CUST-0365,Customer 365,Home Office
+CUST-0704,Customer 704,Consumer
+CUST-0364,Customer 364,Corporate
+CUST-0162,Customer 162,Corporate
+CUST-0879,Customer 879,Consumer
+CUST-0865,Customer 865,Consumer
+CUST-0930,Customer 930,Consumer
+CUST-0871,Customer 871,Consumer
+CUST-0290,Customer 290,Corporate
+CUST-0403,Customer 403,Corporate
+CUST-0558,Customer 558,Consumer
+CUST-0467,Customer 467,Consumer
+CUST-0521,Customer 521,Corporate
+CUST-0440,Customer 440,Consumer
+CUST-0639,Customer 639,Consumer
+CUST-0396,Customer 396,Home Office
+CUST-0575,Customer 575,Home Office
+CUST-0531,Customer 531,Home Office
+CUST-0172,Customer 172,Consumer
+CUST-0487,Customer 487,Consumer
+CUST-0697,Customer 697,Consumer
+CUST-0327,Customer 327,Corporate
+CUST-0605,Customer 605,Consumer
+CUST-0992,Customer 992,Corporate
+CUST-0311,Customer 311,Consumer
+CUST-0971,Customer 971,Corporate
+CUST-0400,Customer 400,Corporate
+CUST-0054,Customer 54,Home Office
+CUST-0957,Customer 957,Corporate
+CUST-0250,Customer 250,Home Office
+CUST-0302,Customer 302,Corporate
+CUST-0641,Customer 641,Consumer
+CUST-0463,Customer 463,Corporate
+CUST-0836,Customer 836,Consumer
+CUST-0665,Customer 665,Consumer
+CUST-0664,Customer 664,Consumer
+CUST-0586,Customer 586,Consumer
+CUST-0934,Customer 934,Corporate
+CUST-0864,Customer 864,Consumer
+CUST-0270,Customer 270,Consumer
+CUST-0519,Customer 519,Home Office
+CUST-0146,Customer 146,Consumer
+CUST-0248,Customer 248,Home Office
+CUST-0346,Customer 346,Corporate
+CUST-0426,Customer 426,Corporate
+CUST-0175,Customer 175,Corporate
+CUST-0015,Customer 15,Consumer
+CUST-0946,Customer 946,Consumer
+CUST-0615,Customer 615,Home Office
+CUST-0095,Customer 95,Corporate
+CUST-0356,Customer 356,Corporate
+CUST-0741,Customer 741,Consumer
+CUST-0847,Customer 847,Consumer
+CUST-0088,Customer 88,Corporate
+CUST-0509,Customer 509,Home Office
+CUST-0807,Customer 807,Home Office
+CUST-0224,Customer 224,Consumer
+CUST-0273,Customer 273,Home Office
+CUST-0231,Customer 231,Corporate
+CUST-0649,Customer 649,Corporate
+CUST-0107,Customer 107,Consumer
+CUST-0117,Customer 117,Home Office
+CUST-0922,Customer 922,Consumer
+CUST-0764,Customer 764,Corporate
+CUST-0121,Customer 121,Home Office
+CUST-0962,Customer 962,Corporate
+CUST-0597,Customer 597,Corporate
+CUST-0497,Customer 497,Corporate
+CUST-0232,Customer 232,Corporate
+CUST-0133,Customer 133,Consumer
+CUST-0739,Customer 739,Consumer
+CUST-0554,Customer 554,Corporate
+CUST-0067,Customer 67,Consumer
+CUST-0868,Customer 868,Consumer
+CUST-0823,Customer 823,Consumer
+CUST-0036,Customer 36,Home Office
+CUST-0754,Customer 754,Consumer
+CUST-0680,Customer 680,Home Office
+CUST-0546,Customer 546,Consumer
+CUST-0456,Customer 456,Consumer
+CUST-0155,Customer 155,Home Office
+CUST-0052,Customer 52,Corporate
+CUST-0793,Customer 793,Corporate
+CUST-0471,Customer 471,Consumer
+CUST-0543,Customer 543,Consumer
+CUST-0017,Customer 17,Consumer
+CUST-0350,Customer 350,Corporate
+CUST-0568,Customer 568,Consumer
+CUST-0089,Customer 89,Home Office
+CUST-0923,Customer 923,Home Office
+CUST-0246,Customer 246,Home Office
+CUST-0038,Customer 38,Consumer
+CUST-0781,Customer 781,Corporate
+CUST-0570,Customer 570,Consumer
+CUST-0008,Customer 8,Home Office
+CUST-0966,Customer 966,Consumer
+CUST-0742,Customer 742,Consumer
+CUST-0794,Customer 794,Corporate
+CUST-0941,Customer 941,Consumer
+CUST-0855,Customer 855,Consumer
+CUST-0770,Customer 770,Home Office
+CUST-0073,Customer 73,Consumer
+CUST-0032,Customer 32,Consumer
+CUST-0652,Customer 652,Corporate
+CUST-0191,Customer 191,Consumer
+CUST-0453,Customer 453,Consumer
+CUST-0820,Customer 820,Consumer
+CUST-0373,Customer 373,Consumer
+CUST-0703,Customer 703,Consumer
+CUST-0498,Customer 498,Consumer
+CUST-0500,Customer 500,Home Office
+CUST-0692,Customer 692,Consumer
+CUST-0376,Customer 376,Consumer
+CUST-0660,Customer 660,Corporate
+CUST-0727,Customer 727,Consumer
+CUST-0944,Customer 944,Home Office
+CUST-0768,Customer 768,Home Office
+CUST-0390,Customer 390,Home Office
+CUST-0731,Customer 731,Consumer
+CUST-0452,Customer 452,Corporate
+CUST-0964,Customer 964,Consumer
+CUST-0682,Customer 682,Consumer
+CUST-0323,Customer 323,Corporate
+CUST-0294,Customer 294,Consumer
+CUST-0367,Customer 367,Home Office
+CUST-0732,Customer 732,Home Office
+CUST-0483,Customer 483,Consumer
+CUST-0722,Customer 722,Consumer
+CUST-0170,Customer 170,Corporate
+CUST-0848,Customer 848,Home Office
+CUST-0981,Customer 981,Consumer
+CUST-0027,Customer 27,Consumer
+CUST-0912,Customer 912,Consumer
+CUST-0667,Customer 667,Consumer
+CUST-0956,Customer 956,Consumer
+CUST-0113,Customer 113,Home Office
+CUST-0261,Customer 261,Corporate
+CUST-0001,Customer 1,Consumer
+CUST-0167,Customer 167,Consumer
+CUST-0407,Customer 407,Consumer
+CUST-0717,Customer 717,Home Office
+CUST-0288,Customer 288,Corporate
+CUST-0633,Customer 633,Corporate
+CUST-0841,Customer 841,Consumer
+CUST-0307,Customer 307,Corporate
+CUST-0123,Customer 123,Consumer
+CUST-0405,Customer 405,Consumer
+CUST-0686,Customer 686,Corporate
+CUST-0059,Customer 59,Consumer
+CUST-0787,Customer 787,Corporate
+CUST-0114,Customer 114,Home Office
+CUST-0718,Customer 718,Home Office
+CUST-0647,Customer 647,Corporate
+CUST-0199,Customer 199,Home Office
+CUST-0567,Customer 567,Consumer
+CUST-0837,Customer 837,Home Office
+CUST-0062,Customer 62,Consumer
+CUST-0563,Customer 563,Consumer
+CUST-0148,Customer 148,Corporate
+CUST-0485,Customer 485,Corporate
+CUST-0321,Customer 321,Corporate
+CUST-0126,Customer 126,Consumer
+CUST-0061,Customer 61,Consumer
+CUST-0790,Customer 790,Home Office
+CUST-0435,Customer 435,Consumer
+CUST-0629,Customer 629,Consumer
+CUST-0253,Customer 253,Home Office
+CUST-0765,Customer 765,Consumer
+CUST-0632,Customer 632,Home Office
+CUST-0105,Customer 105,Home Office
+CUST-0272,Customer 272,Home Office
+CUST-0383,Customer 383,Corporate
+CUST-0037,Customer 37,Consumer
+CUST-0421,Customer 421,Corporate
+CUST-0271,Customer 271,Home Office
+CUST-0489,Customer 489,Home Office
+CUST-0673,Customer 673,Consumer
+CUST-0197,Customer 197,Corporate
+CUST-0159,Customer 159,Consumer
+CUST-0082,Customer 82,Corporate
+CUST-0422,Customer 422,Corporate
+CUST-0028,Customer 28,Corporate
+CUST-0499,Customer 499,Home Office
+CUST-0881,Customer 881,Consumer
+CUST-0147,Customer 147,Corporate
+CUST-0208,Customer 208,Corporate
+CUST-0552,Customer 552,Home Office
+CUST-0702,Customer 702,Consumer
+CUST-0425,Customer 425,Consumer
+CUST-0074,Customer 74,Home Office
+CUST-0920,Customer 920,Consumer
+CUST-0929,Customer 929,Corporate
+CUST-0198,Customer 198,Home Office
+CUST-0007,Customer 7,Consumer
+CUST-0892,Customer 892,Home Office
+CUST-0844,Customer 844,Home Office
+CUST-0352,Customer 352,Home Office
+CUST-0694,Customer 694,Consumer
+CUST-0013,Customer 13,Home Office
+CUST-0189,Customer 189,Corporate
+CUST-0134,Customer 134,Consumer
+CUST-0534,Customer 534,Corporate
+CUST-0684,Customer 684,Corporate
+CUST-0337,Customer 337,Home Office
+CUST-0507,Customer 507,Home Office
+CUST-0128,Customer 128,Home Office
+CUST-0394,Customer 394,Corporate
+CUST-0829,Customer 829,Corporate
+CUST-0295,Customer 295,Consumer
+CUST-0315,Customer 315,Home Office
+CUST-0229,Customer 229,Home Office
+CUST-0491,Customer 491,Consumer
+CUST-0064,Customer 64,Consumer
+CUST-0978,Customer 978,Consumer
+CUST-0967,Customer 967,Corporate
+CUST-0987,Customer 987,Corporate
+CUST-0434,Customer 434,Consumer
+CUST-0210,Customer 210,Consumer
+CUST-0461,Customer 461,Consumer
+CUST-0186,Customer 186,Corporate
+CUST-0152,Customer 152,Consumer
+CUST-0903,Customer 903,Consumer
+CUST-0640,Customer 640,Consumer
+CUST-0010,Customer 10,Corporate
+CUST-0219,Customer 219,Corporate
+CUST-0041,Customer 41,Consumer
+CUST-0655,Customer 655,Consumer
+CUST-0913,Customer 913,Corporate
+CUST-0516,Customer 516,Consumer
+CUST-0075,Customer 75,Corporate
+CUST-0991,Customer 991,Corporate
+CUST-0230,Customer 230,Corporate
+CUST-0513,Customer 513,Home Office
+CUST-0942,Customer 942,Corporate
+CUST-0438,Customer 438,Home Office
+CUST-0217,Customer 217,Consumer
+CUST-0749,Customer 749,Home Office
+CUST-0708,Customer 708,Home Office
+CUST-0033,Customer 33,Consumer
+CUST-0031,Customer 31,Corporate
+CUST-0875,Customer 875,Consumer
+CUST-0591,Customer 591,Consumer
+CUST-0447,Customer 447,Home Office
+CUST-0388,Customer 388,Consumer
+CUST-0919,Customer 919,Corporate
+CUST-0520,Customer 520,Consumer
+CUST-0544,Customer 544,Corporate
+CUST-0338,Customer 338,Corporate
+CUST-0221,Customer 221,Corporate
+CUST-0648,Customer 648,Corporate
+CUST-0949,Customer 949,Home Office
+CUST-0569,Customer 569,Home Office
+CUST-0262,Customer 262,Home Office
+CUST-0009,Customer 9,Corporate
+CUST-0247,Customer 247,Consumer
+CUST-0537,Customer 537,Home Office
+CUST-0267,Customer 267,Corporate
+CUST-0725,Customer 725,Corporate
+CUST-0874,Customer 874,Consumer
+CUST-0623,Customer 623,Consumer
+CUST-0598,Customer 598,Consumer
+CUST-0368,Customer 368,Home Office
+CUST-0587,Customer 587,Consumer
+CUST-0039,Customer 39,Corporate
+CUST-0277,Customer 277,Corporate
+CUST-0314,Customer 314,Home Office
+CUST-0004,Customer 4,Corporate
+CUST-0784,Customer 784,Consumer
+CUST-0412,Customer 412,Home Office
+CUST-0902,Customer 902,Consumer
+CUST-0427,Customer 427,Consumer
+CUST-0618,Customer 618,Consumer
+CUST-0173,Customer 173,Corporate
+CUST-0549,Customer 549,Corporate
+CUST-0283,Customer 283,Consumer
+CUST-0419,Customer 419,Corporate
+CUST-0979,Customer 979,Consumer
+CUST-0464,Customer 464,Corporate
+CUST-0021,Customer 21,Corporate
+CUST-0445,Customer 445,Home Office
+CUST-0861,Customer 861,Corporate
+CUST-0921,Customer 921,Home Office
+CUST-0535,Customer 535,Corporate
+CUST-0104,Customer 104,Corporate
+CUST-0016,Customer 16,Consumer
+CUST-0955,Customer 955,Consumer
+CUST-0479,Customer 479,Home Office
+CUST-0960,Customer 960,Corporate
+CUST-0937,Customer 937,Consumer
+CUST-0886,Customer 886,Consumer
+CUST-0621,Customer 621,Consumer
+CUST-0825,Customer 825,Corporate
+CUST-0581,Customer 581,Consumer
+CUST-0683,Customer 683,Consumer
+CUST-0753,Customer 753,Corporate
+CUST-0778,Customer 778,Corporate
+CUST-0916,Customer 916,Consumer
+CUST-0145,Customer 145,Consumer
+CUST-0265,Customer 265,Home Office
+CUST-0720,Customer 720,Corporate
+CUST-0099,Customer 99,Consumer
+CUST-0592,Customer 592,Corporate
+CUST-0402,Customer 402,Home Office
+CUST-0142,Customer 142,Consumer
+CUST-0857,Customer 857,Consumer
+CUST-0046,Customer 46,Corporate
+CUST-0752,Customer 752,Home Office
+CUST-0666,Customer 666,Consumer
+CUST-0635,Customer 635,Consumer
+CUST-0822,Customer 822,Consumer
+CUST-0590,Customer 590,Consumer
+CUST-0675,Customer 675,Consumer
+CUST-0873,Customer 873,Corporate
+CUST-0883,Customer 883,Consumer
+CUST-0733,Customer 733,Corporate
+CUST-0938,Customer 938,Home Office
+CUST-0291,Customer 291,Consumer
+CUST-0659,Customer 659,Corporate
+CUST-0493,Customer 493,Consumer
+CUST-0891,Customer 891,Corporate
+CUST-0474,Customer 474,Home Office
+CUST-0151,Customer 151,Home Office
+CUST-0676,Customer 676,Home Office
+CUST-0827,Customer 827,Consumer
+CUST-0545,Customer 545,Corporate
+CUST-0399,Customer 399,Corporate
+CUST-0055,Customer 55,Corporate
+CUST-0353,Customer 353,Corporate
+CUST-0100,Customer 100,Consumer
+CUST-0361,Customer 361,Consumer
+CUST-0238,Customer 238,Consumer
+CUST-0788,Customer 788,Consumer
+CUST-0767,Customer 767,Corporate
+CUST-0093,Customer 93,Corporate
+CUST-0862,Customer 862,Consumer
+CUST-0297,Customer 297,Corporate
+CUST-0213,Customer 213,Corporate
+CUST-0915,Customer 915,Corporate
+CUST-0339,Customer 339,Consumer
+CUST-0492,Customer 492,Corporate
+CUST-0424,Customer 424,Consumer
+CUST-0163,Customer 163,Corporate
+CUST-0588,Customer 588,Consumer
+CUST-0878,Customer 878,Corporate
+CUST-0078,Customer 78,Consumer
+CUST-0333,Customer 333,Consumer
+CUST-0719,Customer 719,Consumer
+CUST-0386,Customer 386,Home Office
+CUST-0607,Customer 607,Consumer
+CUST-0506,Customer 506,Consumer
+CUST-0574,Customer 574,Corporate
+CUST-0330,Customer 330,Consumer
+CUST-0482,Customer 482,Corporate
+CUST-0651,Customer 651,Consumer
+CUST-0187,Customer 187,Home Office
+CUST-0576,Customer 576,Home Office
+CUST-0103,Customer 103,Consumer
+CUST-0138,Customer 138,Corporate
+CUST-0858,Customer 858,Consumer
+CUST-0954,Customer 954,Home Office
+CUST-0584,Customer 584,Consumer
+CUST-0715,Customer 715,Consumer
+CUST-0328,Customer 328,Corporate
+CUST-0336,Customer 336,Consumer
+CUST-0583,Customer 583,Consumer
+CUST-0236,Customer 236,Corporate
+CUST-0207,Customer 207,Consumer
+CUST-0144,Customer 144,Consumer
+CUST-0411,Customer 411,Consumer
+CUST-0780,Customer 780,Corporate
+CUST-0081,Customer 81,Home Office
+CUST-0227,Customer 227,Home Office
+CUST-0840,Customer 840,Corporate
+CUST-0287,Customer 287,Consumer
+CUST-0455,Customer 455,Consumer
+CUST-0014,Customer 14,Consumer
+CUST-0961,Customer 961,Consumer
+CUST-0897,Customer 897,Consumer
+CUST-0457,Customer 457,Consumer
+CUST-0750,Customer 750,Corporate
+CUST-0375,Customer 375,Consumer
+CUST-0465,Customer 465,Home Office
+CUST-0098,Customer 98,Consumer
+CUST-0324,Customer 324,Consumer
+CUST-0698,Customer 698,Corporate
+CUST-0906,Customer 906,Home Office
+CUST-0188,Customer 188,Corporate
+CUST-0799,Customer 799,Corporate
+CUST-0211,Customer 211,Corporate
+CUST-0158,Customer 158,Corporate
+CUST-0184,Customer 184,Home Office
+CUST-0153,Customer 153,Consumer
+CUST-0577,Customer 577,Consumer
+CUST-0895,Customer 895,Corporate
+CUST-0408,Customer 408,Consumer
+CUST-0225,Customer 225,Consumer
+CUST-0795,Customer 795,Consumer
+CUST-0274,Customer 274,Home Office
+CUST-0012,Customer 12,Home Office
+CUST-0948,Customer 948,Home Office
+CUST-0355,Customer 355,Consumer
+CUST-0245,Customer 245,Consumer
+CUST-0084,Customer 84,Consumer
+CUST-0141,Customer 141,Home Office
+CUST-0800,Customer 800,Home Office
+CUST-0663,Customer 663,Corporate
+CUST-0643,Customer 643,Consumer
+CUST-0416,Customer 416,Consumer
+CUST-0613,Customer 613,Corporate
+CUST-0671,Customer 671,Consumer
+CUST-0303,Customer 303,Corporate
+CUST-0379,Customer 379,Home Office
+CUST-0448,Customer 448,Corporate
+CUST-0371,Customer 371,Consumer
+CUST-0884,Customer 884,Consumer
+CUST-0002,Customer 2,Home Office
+CUST-0131,Customer 131,Consumer
+CUST-0109,Customer 109,Consumer
+CUST-0657,Customer 657,Consumer
+CUST-0925,Customer 925,Consumer
+CUST-0860,Customer 860,Consumer
+CUST-0212,Customer 212,Corporate
+CUST-0069,Customer 69,Consumer
+CUST-0899,Customer 899,Consumer
+CUST-0772,Customer 772,Home Office
+CUST-0018,Customer 18,Corporate
+CUST-0110,Customer 110,Consumer
+CUST-0644,Customer 644,Consumer
+CUST-0525,Customer 525,Home Office
+CUST-0696,Customer 696,Corporate
+CUST-0451,Customer 451,Corporate
+CUST-0721,Customer 721,Home Office
+CUST-0826,Customer 826,Home Office
+CUST-0395,Customer 395,Consumer
+CUST-0087,Customer 87,Corporate
+CUST-0132,Customer 132,Consumer
+CUST-0319,Customer 319,Consumer
+CUST-0222,Customer 222,Corporate
+CUST-0553,Customer 553,Corporate
+CUST-0529,Customer 529,Consumer
+CUST-0608,Customer 608,Consumer
+CUST-0318,Customer 318,Consumer
+CUST-0240,Customer 240,Consumer
+CUST-0636,Customer 636,Consumer
+CUST-0928,Customer 928,Corporate
+CUST-0206,Customer 206,Consumer
+CUST-0859,Customer 859,Corporate
+CUST-0076,Customer 76,Corporate
+CUST-0596,Customer 596,Consumer
+CUST-0551,Customer 551,Corporate
+CUST-0601,Customer 601,Consumer
+CUST-0329,Customer 329,Consumer
+CUST-0359,Customer 359,Home Office
+CUST-0813,Customer 813,Consumer
+CUST-0889,Customer 889,Consumer
+CUST-0662,Customer 662,Home Office
+CUST-0420,Customer 420,Corporate
+CUST-0504,Customer 504,Home Office
+CUST-0135,Customer 135,Home Office
+CUST-0630,Customer 630,Consumer
+CUST-0724,Customer 724,Corporate
+CUST-0571,Customer 571,Corporate
+CUST-0486,Customer 486,Home Office
+CUST-0214,Customer 214,Consumer
+CUST-0292,Customer 292,Consumer
+CUST-0150,Customer 150,Consumer
+CUST-0849,Customer 849,Corporate
+CUST-0263,Customer 263,Consumer
+CUST-0609,Customer 609,Corporate
+CUST-0034,Customer 34,Home Office
+CUST-0924,Customer 924,Corporate
+CUST-0716,Customer 716,Home Office
+CUST-0995,Customer 995,Consumer
+CUST-0363,Customer 363,Consumer
+CUST-0914,Customer 914,Consumer
+CUST-0301,Customer 301,Consumer
+CUST-0192,Customer 192,Home Office
+CUST-0366,Customer 366,Consumer
+CUST-0773,Customer 773,Consumer
+CUST-0730,Customer 730,Consumer
+CUST-0430,Customer 430,Consumer
+CUST-0495,Customer 495,Consumer
+CUST-0931,Customer 931,Consumer
+CUST-0701,Customer 701,Corporate
+CUST-0019,Customer 19,Consumer
+CUST-0049,Customer 49,Corporate
+CUST-0791,Customer 791,Consumer
+CUST-0351,Customer 351,Corporate
+CUST-0382,Customer 382,Corporate
+CUST-0156,Customer 156,Consumer
+CUST-0413,Customer 413,Home Office
+CUST-0171,Customer 171,Corporate
+CUST-0050,Customer 50,Consumer
+CUST-0097,Customer 97,Corporate
+CUST-0627,Customer 627,Consumer
+CUST-0494,Customer 494,Consumer
+CUST-0728,Customer 728,Corporate
+CUST-0259,Customer 259,Corporate
+CUST-0127,Customer 127,Home Office
+CUST-0816,Customer 816,Corporate
+CUST-0340,Customer 340,Consumer
+CUST-0908,Customer 908,Consumer
+CUST-0811,Customer 811,Home Office
+CUST-0853,Customer 853,Consumer
+CUST-0280,Customer 280,Corporate
+CUST-0585,Customer 585,Corporate
+CUST-0344,Customer 344,Consumer
+CUST-0215,Customer 215,Corporate
+CUST-0508,Customer 508,Home Office
+CUST-0894,Customer 894,Consumer
+CUST-0130,Customer 130,Corporate
+CUST-0458,Customer 458,Consumer
+CUST-0454,Customer 454,Home Office
+CUST-0712,Customer 712,Corporate
+CUST-0542,Customer 542,Corporate
+CUST-0112,Customer 112,Consumer
+CUST-0518,Customer 518,Home Office
+CUST-0322,Customer 322,Corporate
+CUST-0866,Customer 866,Corporate
+CUST-0918,Customer 918,Home Office
+CUST-0550,Customer 550,Corporate
+CUST-0057,Customer 57,Consumer
+CUST-0023,Customer 23,Consumer
+CUST-0688,Customer 688,Consumer
+CUST-0409,Customer 409,Home Office
+CUST-0805,Customer 805,Consumer
+CUST-0977,Customer 977,Corporate
+CUST-0932,Customer 932,Home Office
+CUST-0139,Customer 139,Consumer
+CUST-0180,Customer 180,Consumer
+CUST-0228,Customer 228,Consumer
+CUST-0965,Customer 965,Consumer
+CUST-0699,Customer 699,Consumer
+CUST-0160,Customer 160,Corporate
+CUST-0092,Customer 92,Corporate
+CUST-0779,Customer 779,Corporate
+CUST-0349,Customer 349,Consumer
+CUST-0845,Customer 845,Consumer
+CUST-0867,Customer 867,Consumer
+CUST-0626,Customer 626,Consumer
+CUST-0108,Customer 108,Corporate
+CUST-0775,Customer 775,Corporate
+CUST-0030,Customer 30,Consumer
+CUST-0572,Customer 572,Corporate
+CUST-0744,Customer 744,Corporate
+CUST-0888,Customer 888,Consumer
+CUST-0882,Customer 882,Corporate
+CUST-0819,Customer 819,Consumer
+CUST-0562,Customer 562,Consumer
+CUST-0216,Customer 216,Consumer
+CUST-0789,Customer 789,Consumer
+CUST-0846,Customer 846,Consumer
+CUST-0306,Customer 306,Home Office
+CUST-0296,Customer 296,Corporate
+CUST-0763,Customer 763,Consumer
+CUST-0834,Customer 834,Consumer
+CUST-0512,Customer 512,Consumer
+CUST-0642,Customer 642,Consumer
+CUST-0511,Customer 511,Corporate
+CUST-0933,Customer 933,Home Office
+CUST-0459,Customer 459,Consumer
+CUST-0449,Customer 449,Consumer
+CUST-0348,Customer 348,Consumer
+CUST-0672,Customer 672,Home Office
+CUST-0410,Customer 410,Consumer
+CUST-0185,Customer 185,Consumer
+CUST-0269,Customer 269,Consumer
+CUST-0559,Customer 559,Corporate
+CUST-0573,Customer 573,Consumer
+CUST-0726,Customer 726,Home Office
+CUST-0685,Customer 685,Home Office
+CUST-0833,Customer 833,Consumer
+CUST-0594,Customer 594,Consumer
+CUST-0481,Customer 481,Corporate
+CUST-0870,Customer 870,Home Office
+CUST-0972,Customer 972,Home Office
+CUST-0490,Customer 490,Home Office
+CUST-0910,Customer 910,Consumer
+CUST-0312,Customer 312,Consumer
+CUST-0566,Customer 566,Corporate
+CUST-0532,Customer 532,Home Office
+CUST-0650,Customer 650,Consumer
+CUST-0137,Customer 137,Corporate
+CUST-0317,Customer 317,Consumer
+CUST-0746,Customer 746,Home Office
+CUST-0443,Customer 443,Consumer
+CUST-0201,Customer 201,Corporate
+CUST-0398,Customer 398,Consumer
+CUST-0304,Customer 304,Corporate
+CUST-0194,Customer 194,Corporate
+CUST-0090,Customer 90,Consumer
+CUST-0943,Customer 943,Corporate
+CUST-0530,Customer 530,Home Office
+CUST-0502,Customer 502,Corporate
+CUST-0281,Customer 281,Home Office
+CUST-0384,Customer 384,Home Office
+CUST-0358,Customer 358,Corporate
+CUST-0821,Customer 821,Home Office
+CUST-0143,Customer 143,Consumer
+CUST-0539,Customer 539,Consumer
+CUST-0838,Customer 838,Consumer
+CUST-0747,Customer 747,Consumer
+CUST-0024,Customer 24,Consumer
+CUST-0179,Customer 179,Home Office
+CUST-0619,Customer 619,Home Office
+CUST-0071,Customer 71,Corporate
+CUST-0065,Customer 65,Consumer
+CUST-0334,Customer 334,Consumer
+CUST-0599,Customer 599,Consumer
+CUST-0527,Customer 527,Consumer
+CUST-0466,Customer 466,Consumer
+CUST-0610,Customer 610,Corporate
+CUST-0760,Customer 760,Corporate
+CUST-0863,Customer 863,Corporate
+CUST-0637,Customer 637,Corporate
+CUST-0997,Customer 997,Home Office
+CUST-0357,Customer 357,Consumer
+CUST-0774,Customer 774,Consumer
+CUST-0604,Customer 604,Consumer
+CUST-0313,Customer 313,Consumer
+CUST-0578,Customer 578,Home Office
+CUST-0517,Customer 517,Consumer
+CUST-0053,Customer 53,Home Office
+CUST-0689,Customer 689,Corporate
+CUST-0602,Customer 602,Consumer
+CUST-0469,Customer 469,Consumer
+CUST-0264,Customer 264,Corporate
+CUST-0244,Customer 244,Consumer
+CUST-0646,Customer 646,Home Office
+CUST-0063,Customer 63,Home Office
+CUST-0372,Customer 372,Consumer
+CUST-0856,Customer 856,Consumer
+CUST-0756,Customer 756,Corporate
+CUST-0102,Customer 102,Corporate
+CUST-0204,Customer 204,Home Office
+CUST-0842,Customer 842,Corporate
+CUST-0802,Customer 802,Consumer
+CUST-0237,Customer 237,Consumer
+CUST-0980,Customer 980,Corporate
+CUST-0814,Customer 814,Home Office
+CUST-0970,Customer 970,Consumer
+CUST-0168,Customer 168,Consumer
+CUST-0869,Customer 869,Home Office
+CUST-0025,Customer 25,Consumer
+CUST-0476,Customer 476,Home Office
+CUST-0157,Customer 157,Corporate
+CUST-0757,Customer 757,Corporate
+CUST-0161,Customer 161,Consumer
+CUST-0169,Customer 169,Consumer
+CUST-0658,Customer 658,Consumer
+CUST-0369,Customer 369,Consumer
+CUST-0226,Customer 226,Consumer
+CUST-0205,Customer 205,Corporate
+CUST-0362,Customer 362,Corporate
+CUST-0293,Customer 293,Home Office
+CUST-0166,Customer 166,Home Office
+CUST-0901,Customer 901,Consumer
+CUST-0996,Customer 996,Consumer
+CUST-0737,Customer 737,Consumer
+CUST-0045,Customer 45,Consumer
+CUST-0437,Customer 437,Consumer
+CUST-0677,Customer 677,Consumer
+CUST-0477,Customer 477,Consumer
+CUST-0817,Customer 817,Corporate
+CUST-0360,Customer 360,Corporate
+CUST-0926,Customer 926,Consumer
+CUST-0450,Customer 450,Consumer
+CUST-0565,Customer 565,Consumer
+CUST-0003,Customer 3,Corporate
+CUST-0678,Customer 678,Consumer
+CUST-0707,Customer 707,Consumer
+CUST-0818,Customer 818,Consumer
+CUST-0119,Customer 119,Home Office
+CUST-0331,Customer 331,Consumer
+CUST-0999,Customer 999,Home Office
+CUST-0178,Customer 178,Consumer
+CUST-0266,Customer 266,Corporate
+CUST-0022,Customer 22,Consumer
+CUST-0047,Customer 47,Consumer
+CUST-0612,Customer 612,Corporate
+CUST-0125,Customer 125,Consumer
+CUST-0839,Customer 839,Corporate
+CUST-0988,Customer 988,Consumer
+CUST-0654,Customer 654,Corporate
+CUST-0316,Customer 316,Corporate
+CUST-0645,Customer 645,Consumer
+CUST-0068,Customer 68,Home Office
+CUST-0801,Customer 801,Corporate
+CUST-0830,Customer 830,Consumer
+CUST-0595,Customer 595,Home Office
+CUST-0540,Customer 540,Consumer
+CUST-0951,Customer 951,Corporate
+CUST-0710,Customer 710,Corporate
+CUST-0060,Customer 60,Consumer
+CUST-0393,Customer 393,Consumer
+CUST-0690,Customer 690,Consumer
+CUST-0557,Customer 557,Consumer
+CUST-0536,Customer 536,Home Office
+CUST-0005,Customer 5,Consumer
+CUST-0345,Customer 345,Consumer

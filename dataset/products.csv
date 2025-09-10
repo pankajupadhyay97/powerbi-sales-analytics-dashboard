@@ -1,0 +1,161 @@
+Product ID,Product Name,Category,Sub-Category
+PROD-0143,Software Product 3,Technology,Software
+PROD-0088,Paper Product 8,Office Supplies,Paper
+PROD-0122,Copiers Product 2,Technology,Copiers
+PROD-0076,Bookcases Product 6,Furniture,Bookcases
+PROD-0008,Phones Product 8,Electronics,Phones
+PROD-0156,Hardware Product 6,Technology,Hardware
+PROD-0146,Software Product 6,Technology,Software
+PROD-0100,Binders Product 10,Office Supplies,Binders
+PROD-0081,Paper Product 1,Office Supplies,Paper
+PROD-0015,Tablets Product 5,Electronics,Tablets
+PROD-0060,Tables Product 10,Furniture,Tables
+PROD-0097,Binders Product 7,Office Supplies,Binders
+PROD-0043,Chairs Product 3,Furniture,Chairs
+PROD-0050,Chairs Product 10,Furniture,Chairs
+PROD-0041,Chairs Product 1,Furniture,Chairs
+PROD-0127,Copiers Product 7,Technology,Copiers
+PROD-0096,Binders Product 6,Office Supplies,Binders
+PROD-0094,Binders Product 4,Office Supplies,Binders
+PROD-0109,Pens Product 9,Office Supplies,Pens
+PROD-0148,Software Product 8,Technology,Software
+PROD-0118,Envelopes Product 8,Office Supplies,Envelopes
+PROD-0054,Tables Product 4,Furniture,Tables
+PROD-0142,Software Product 2,Technology,Software
+PROD-0056,Tables Product 6,Furniture,Tables
+PROD-0071,Bookcases Product 1,Furniture,Bookcases
+PROD-0011,Tablets Product 1,Electronics,Tablets
+PROD-0113,Envelopes Product 3,Office Supplies,Envelopes
+PROD-0123,Copiers Product 3,Technology,Copiers
+PROD-0055,Tables Product 5,Furniture,Tables
+PROD-0085,Paper Product 5,Office Supplies,Paper
+PROD-0095,Binders Product 5,Office Supplies,Binders
+PROD-0119,Envelopes Product 9,Office Supplies,Envelopes
+PROD-0024,Laptops Product 4,Electronics,Laptops
+PROD-0037,Accessories Product 7,Electronics,Accessories
+PROD-0074,Bookcases Product 4,Furniture,Bookcases
+PROD-0083,Paper Product 3,Office Supplies,Paper
+PROD-0039,Accessories Product 9,Electronics,Accessories
+PROD-0057,Tables Product 7,Furniture,Tables
+PROD-0049,Chairs Product 9,Furniture,Chairs
+PROD-0007,Phones Product 7,Electronics,Phones
+PROD-0067,Storage Product 7,Furniture,Storage
+PROD-0108,Pens Product 8,Office Supplies,Pens
+PROD-0004,Phones Product 4,Electronics,Phones
+PROD-0131,Machines Product 1,Technology,Machines
+PROD-0006,Phones Product 6,Electronics,Phones
+PROD-0153,Hardware Product 3,Technology,Hardware
+PROD-0139,Machines Product 9,Technology,Machines
+PROD-0038,Accessories Product 8,Electronics,Accessories
+PROD-0110,Pens Product 10,Office Supplies,Pens
+PROD-0013,Tablets Product 3,Electronics,Tablets
+PROD-0075,Bookcases Product 5,Furniture,Bookcases
+PROD-0098,Binders Product 8,Office Supplies,Binders
+PROD-0068,Storage Product 8,Furniture,Storage
+PROD-0045,Chairs Product 5,Furniture,Chairs
+PROD-0134,Machines Product 4,Technology,Machines
+PROD-0062,Storage Product 2,Furniture,Storage
+PROD-0063,Storage Product 3,Furniture,Storage
+PROD-0019,Tablets Product 9,Electronics,Tablets
+PROD-0104,Pens Product 4,Office Supplies,Pens
+PROD-0154,Hardware Product 4,Technology,Hardware
+PROD-0046,Chairs Product 6,Furniture,Chairs
+PROD-0087,Paper Product 7,Office Supplies,Paper
+PROD-0051,Tables Product 1,Furniture,Tables
+PROD-0072,Bookcases Product 2,Furniture,Bookcases
+PROD-0010,Phones Product 10,Electronics,Phones
+PROD-0099,Binders Product 9,Office Supplies,Binders
+PROD-0059,Tables Product 9,Furniture,Tables
+PROD-0069,Storage Product 9,Furniture,Storage
+PROD-0001,Phones Product 1,Electronics,Phones
+PROD-0130,Copiers Product 10,Technology,Copiers
+PROD-0084,Paper Product 4,Office Supplies,Paper
+PROD-0078,Bookcases Product 8,Furniture,Bookcases
+PROD-0147,Software Product 7,Technology,Software
+PROD-0073,Bookcases Product 3,Furniture,Bookcases
+PROD-0126,Copiers Product 6,Technology,Copiers
+PROD-0150,Software Product 10,Technology,Software
+PROD-0035,Accessories Product 5,Electronics,Accessories
+PROD-0022,Laptops Product 2,Electronics,Laptops
+PROD-0129,Copiers Product 9,Technology,Copiers
+PROD-0102,Pens Product 2,Office Supplies,Pens
+PROD-0103,Pens Product 3,Office Supplies,Pens
+PROD-0003,Phones Product 3,Electronics,Phones
+PROD-0133,Machines Product 3,Technology,Machines
+PROD-0079,Bookcases Product 9,Furniture,Bookcases
+PROD-0005,Phones Product 5,Electronics,Phones
+PROD-0044,Chairs Product 4,Furniture,Chairs
+PROD-0145,Software Product 5,Technology,Software
+PROD-0089,Paper Product 9,Office Supplies,Paper
+PROD-0137,Machines Product 7,Technology,Machines
+PROD-0157,Hardware Product 7,Technology,Hardware
+PROD-0132,Machines Product 2,Technology,Machines
+PROD-0125,Copiers Product 5,Technology,Copiers
+PROD-0009,Phones Product 9,Electronics,Phones
+PROD-0012,Tablets Product 2,Electronics,Tablets
+PROD-0027,Laptops Product 7,Electronics,Laptops
+PROD-0031,Accessories Product 1,Electronics,Accessories
+PROD-0149,Software Product 9,Technology,Software
+PROD-0020,Tablets Product 10,Electronics,Tablets
+PROD-0144,Software Product 4,Technology,Software
+PROD-0111,Envelopes Product 1,Office Supplies,Envelopes
+PROD-0141,Software Product 1,Technology,Software
+PROD-0033,Accessories Product 3,Electronics,Accessories
+PROD-0107,Pens Product 7,Office Supplies,Pens
+PROD-0032,Accessories Product 2,Electronics,Accessories
+PROD-0114,Envelopes Product 4,Office Supplies,Envelopes
+PROD-0034,Accessories Product 4,Electronics,Accessories
+PROD-0053,Tables Product 3,Furniture,Tables
+PROD-0136,Machines Product 6,Technology,Machines
+PROD-0140,Machines Product 10,Technology,Machines
+PROD-0017,Tablets Product 7,Electronics,Tablets
+PROD-0152,Hardware Product 2,Technology,Hardware
+PROD-0120,Envelopes Product 10,Office Supplies,Envelopes
+PROD-0092,Binders Product 2,Office Supplies,Binders
+PROD-0066,Storage Product 6,Furniture,Storage
+PROD-0040,Accessories Product 10,Electronics,Accessories
+PROD-0090,Paper Product 10,Office Supplies,Paper
+PROD-0030,Laptops Product 10,Electronics,Laptops
+PROD-0117,Envelopes Product 7,Office Supplies,Envelopes
+PROD-0026,Laptops Product 6,Electronics,Laptops
+PROD-0106,Pens Product 6,Office Supplies,Pens
+PROD-0135,Machines Product 5,Technology,Machines
+PROD-0018,Tablets Product 8,Electronics,Tablets
+PROD-0115,Envelopes Product 5,Office Supplies,Envelopes
+PROD-0052,Tables Product 2,Furniture,Tables
+PROD-0064,Storage Product 4,Furniture,Storage
+PROD-0077,Bookcases Product 7,Furniture,Bookcases
+PROD-0016,Tablets Product 6,Electronics,Tablets
+PROD-0112,Envelopes Product 2,Office Supplies,Envelopes
+PROD-0036,Accessories Product 6,Electronics,Accessories
+PROD-0065,Storage Product 5,Furniture,Storage
+PROD-0048,Chairs Product 8,Furniture,Chairs
+PROD-0023,Laptops Product 3,Electronics,Laptops
+PROD-0070,Storage Product 10,Furniture,Storage
+PROD-0155,Hardware Product 5,Technology,Hardware
+PROD-0101,Pens Product 1,Office Supplies,Pens
+PROD-0042,Chairs Product 2,Furniture,Chairs
+PROD-0160,Hardware Product 10,Technology,Hardware
+PROD-0028,Laptops Product 8,Electronics,Laptops
+PROD-0082,Paper Product 2,Office Supplies,Paper
+PROD-0158,Hardware Product 8,Technology,Hardware
+PROD-0093,Binders Product 3,Office Supplies,Binders
+PROD-0105,Pens Product 5,Office Supplies,Pens
+PROD-0047,Chairs Product 7,Furniture,Chairs
+PROD-0138,Machines Product 8,Technology,Machines
+PROD-0159,Hardware Product 9,Technology,Hardware
+PROD-0121,Copiers Product 1,Technology,Copiers
+PROD-0116,Envelopes Product 6,Office Supplies,Envelopes
+PROD-0029,Laptops Product 9,Electronics,Laptops
+PROD-0025,Laptops Product 5,Electronics,Laptops
+PROD-0151,Hardware Product 1,Technology,Hardware
+PROD-0080,Bookcases Product 10,Furniture,Bookcases
+PROD-0014,Tablets Product 4,Electronics,Tablets
+PROD-0124,Copiers Product 4,Technology,Copiers
+PROD-0002,Phones Product 2,Electronics,Phones
+PROD-0086,Paper Product 6,Office Supplies,Paper
+PROD-0091,Binders Product 1,Office Supplies,Binders
+PROD-0061,Storage Product 1,Furniture,Storage
+PROD-0058,Tables Product 8,Furniture,Tables
+PROD-0128,Copiers Product 8,Technology,Copiers
+PROD-0021,Laptops Product 1,Electronics,Laptops
